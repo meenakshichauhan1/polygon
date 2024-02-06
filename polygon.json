@@ -1,0 +1,124 @@
+{
+  "description": "Polygon, formerly known as Matic Network, is a layer 2 scaling solution for Ethereum. It addresses scalability issues by providing faster and cheaper transactions through various technologies like sidechains and plasma. Polygon aims to enhance the Ethereum ecosystem with improved scalability for decentralized applications (DApps), decentralized finance (DeFi) projects, and non-fungible tokens (NFTs).",
+  "tags": [
+    "layer 2",
+    "scaling solution",
+    "Ethereum ecosystem",
+    "sidechains",
+    "plasma",
+    "DApps",
+    "DeFi",
+    "NFTs"
+  ],
+  "coin_details": {
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "logo": "logo/polygon.png",
+    "max_supply": "∞"
+  },
+  "chain_details": [
+    {
+      "name": "Layer",
+      "type": "Layer 2"
+    },
+    {
+      "name": "Consensus",
+      "type": "Proof of Stake"
+    },
+    {
+      "name": "Chain Layer",
+      "type": "Layer 2"
+    },
+    {
+      "name": "Chain Type",
+      "type": "Sidechains and Plasma"
+    }
+  ],
+  "official_links": {
+    "website": "https://polygon.technology/",
+    "documentation": "https://docs.polygon.technology/",
+    "explorer": "https://explorer-mainnet.maticvigil.com/"
+  },
+  "social_platforms": {
+    "twitter": "https://twitter.com/0xPolygon",
+    "reddit": "https://www.reddit.com/r/maticnetwork/",
+    "discord": "https://discord.com/invite/matic",
+    "telegram": "https://t.me/polygonofficial"
+  },
+  "data_aggregator": [
+    {
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com/currencies/polygon/"
+    },
+    {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com/en/coins/polygon"
+    },
+    {
+      "name": "DappRadar",
+      "url": "https://dappradar.com/chain/polygon"
+    },
+    {
+      "name": "CryptoCompare",
+      "url": "https://www.cryptocompare.com/coins/matic/overview"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/price/polygon/"
+    },
+    {
+      "name": "Investing",
+      "url": "https://www.investing.com/crypto/polygon/matic-usd"
+    },
+    {
+      "name": "MarketWatch",
+      "url": "https://www.marketwatch.com/investing/cryptocurrency/maticusd"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/MATIC-USD"
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PolygonScan",
+      "url": "https://polygonscan.com/"
+    },
+    {
+      "name": "Maticvigil",
+      "url": "https://explorer-mainnet.maticvigil.com/"
+    }
+  ],
+  "bridges": [
+    {
+      "name": "PoS Bridge",
+      "url": "https://wallet.matic.network/bridge/"
+    },
+    {
+      "name": "Hop Protocol",
+      "url": "https://hop.exchange/"
+    }
+  ],
+  "wallets": [
+    {
+      "name": "Metamask",
+      "url": "https://metamask.io/"
+    },
+    {
+      "name": "MyEtherWallet",
+      "url": "https://myetherwallet.com/"
+    },
+    {
+      "name": "Trust Wallet",
+      "url": "https://trustwallet.com/"
+    },
+    {
+      "name": "Coinbase Wallet",
+      "url": "https://www.coinbase.com/wallet"
+    },
+    {
+      "name": "Ledger",
+      "url": "https://www.ledger.com/"
+    }
+  ]
+}
